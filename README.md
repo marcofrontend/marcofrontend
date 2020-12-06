@@ -4,11 +4,11 @@
 
 
 
-#Marco Estors 
-###Junior Web Developer
+# Marco Estors 
+### Junior Web Developer
 
 
-##The tools I use to create projects:
+## The tools I use to create projects:
 
 <p>
  <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
