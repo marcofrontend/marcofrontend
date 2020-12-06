@@ -12,12 +12,13 @@ this is what I do,
 
 The tools I use to create projects:
 
-<ul style="display:flex">
-  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
-  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
-  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
-  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
-</ul>
+<p>
+    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
+    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
+    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
+    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
+
+</p>
 
 
 <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
