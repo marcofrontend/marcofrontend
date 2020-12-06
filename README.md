@@ -1,13 +1,11 @@
-![hello work ](https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbDV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 )
-
-=====================
-Hello GitHub, 
+<!-- ![hello work ](https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbDV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 ) -->
 
 
 
 
 
-this is what I do,
+#Marco Estors 
+###Junior Web Developer
 
 
 ##The tools I use to create projects:
