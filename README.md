@@ -13,7 +13,7 @@ I dropped out of the second year, but I got the HNC Web Development Certificate
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" />JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
 
-img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" />  Bootstrap 3 (Experience 2016-2018) Bootstrap 4 (Experience 2018-2019) - 1 year ago I don't use it, but I love it and I was very fast with it
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" />  Bootstrap 3 (Experience 2016-2018) Bootstrap 4 (Experience 2018-2019) - 1 year ago I don't use it, but I love it and I was very fast with it
 
 ## What is next?
 - I just want to code. 
