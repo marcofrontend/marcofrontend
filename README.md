@@ -4,7 +4,7 @@
 
 
 
-# Marco Estors 
+# Marco Estors <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" style="display:inline-block; margin-left: 20px;" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
 ### Junior Web Developer
 
 
