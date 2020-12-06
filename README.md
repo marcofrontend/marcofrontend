@@ -1,4 +1,3 @@
-GITHUB - INTRO
 # About me!
 I'm a Front End Developer Junior born in Spain.
 My First course about programming was: OO Java programming M250 - OU.
