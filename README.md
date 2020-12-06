@@ -12,12 +12,16 @@ this is what I do,
 
 The tools I use to create projects:
 
-![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg)
+<ul style="display:flex">
+  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
+  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
+  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
+  <li><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />  </li>
+</ul>
 
 
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="350" alt="Html5 Icon Hd" />
-
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="350" alt="Html5 Icon Hd" />
+<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
+<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />
 <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="350" alt="Html5 Icon Hd" />
 <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="350" alt="Html5 Icon Hd" />
 
