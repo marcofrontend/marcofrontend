@@ -14,7 +14,9 @@ The tools I use to create projects:
 
 ![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg)
 
-![nothing else matters](http://simpleicons.org/icons/html5.svg)
+<img src="http://simpleicons.org/icons/html5.svg" width="200px" height="200px" />
+<img src="http://simpleicons.org/icons/html5.svg" width="100px" height="100px" />
+<img src="http://simpleicons.org/icons/html5.svg" width="40px" height="40px" />
 
 
 
