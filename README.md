@@ -6,11 +6,10 @@ I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Med
 I dropped out of the second year, but I got the HNC Web Development Certificate
 
 ## Interested in finding a job as a Junior Web Developer
-- PSD - Pixel perfect or fluid 
-- <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />
- HTML5 
-- CSS/CSS3 -Media queries, Keyframes
-- JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
+- <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />  PSD - Pixel perfect or fluid 
+- <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />  HTML5 
+- <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />  CSS/CSS3 -Media queries, Keyframes
+- <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />  JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
 
 ## What is next?
 - I just want to code. 
