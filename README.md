@@ -1,10 +1,45 @@
+GITHUB - INTRO
+# About me!
+I'm a Front End Developer Junior born in Spain.
+My First course about programming was: OO Java programming M250 - OU.
+I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Media - Web Development) 
+I dropped out of the second year, but I got the HNC Web Development Certificate
+
+## Interested in finding a job as a Junior Web Developer
+- PSD - Pixel perfect or fluid 
+- <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />
+ HTML5 
+- CSS/CSS3 -Media queries, Keyframes
+- JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
+
+## What is next?
+- I just want to code. 
+- If nothing happened I would learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language
+- Java, C++, C#, anything really
+
+## What you will find:
+- CV made in 2018
+- Responsive Website demo 1
+- Responsive Website demo 2
+- 20 designs I made using Photoshop
+- 3 Responsive Websites (Mobile First I build in 2020)
+
+
+
+
+
+
 <!-- ![hello work ](https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbDV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 ) -->
 
 
 
 
 
-# Marco Estors <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" style="display:inline-block; margin-left: 20px;" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
+# Marco Estors <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" style="display:inline-block; margin-left: 20px;" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
+
+<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />
+
+<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
 ### Junior Web Developer
 
 
