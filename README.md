@@ -1,35 +1,7 @@
-Hello GitHub bitches!
-
-
-
-This is Marco, the best there is. I wake up and I piss excellence.
-
-Talladega Nights.- Will Ferrell
-
-
 ![hello work ](https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbDV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 )
 
 =====================
-Hello GitHub bitches!
-
-
-
-This is Marco, the best there is. I wake up and I piss excellence.
-
-Talladega Nights.- Will Ferrell
-
-
-
-![nothing text](https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/html5?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-=======================================
-
-===================================
-======================
-===============
-=======
-======
-
+Hello GitHub, 
 
 
 
@@ -40,12 +12,25 @@ this is what I do,
 
 The tools I use to create projects:
 
+![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg) ![nothing else matters](http://simpleicons.org/icons/html5.svg)
 
-!![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![nothing else matters](http://simpleicons.org/icons/html5.svg)
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
+
+![nothing else matters](http://simpleicons.org/icons/html5.svg)
+
+
+
+![nothing else matters](http://simpleicons.org/icons/html5.svg)
+![nothing else matters](http://simpleicons.org/icons/html5.svg)
+
+
+![nothing else matters](http://simpleicons.org/icons/html5.svg)
+
+
+
 
 
 
