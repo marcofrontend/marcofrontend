@@ -8,7 +8,7 @@ Talladega Nights.- Will Ferrell
 
 
 
-![]()<img src="C:\Users\SMART\Pictures\windows-10-mountain-wallpaper\alessandro-erbetta-mpWPcRT9D1E-unsplash.jpg" width="200px" height="100px" alt="alessandro-erbetta-mpWPcRT9D1E-unsplash" style="zoom:25%;" />
+![alt text](<img src="C:\Users\SMART\Pictures\windows-10-mountain-wallpaper\alessandro-erbetta-mpWPcRT9D1E-unsplash.jpg" width="200px" height="100px" alt="alessandro-erbetta-mpWPcRT9D1E-unsplash" style="zoom:25%;" />)
 
 ===================================
 ======================
