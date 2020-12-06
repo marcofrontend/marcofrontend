@@ -10,36 +10,18 @@ Hello GitHub,
 this is what I do,
 
 
-The tools I use to create projects:
+##The tools I use to create projects:
 
 <p>
-    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
-    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
-    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
-    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
+ <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
+<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
+<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
+<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
+
 
 </p>
 
 
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" /> 
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="100" alt="Html5 Icon Hd" />
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="350" alt="Html5 Icon Hd" />
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="350" alt="Html5 Icon Hd" />
-
-
-
-
-
-
-![nothing else matters](http://simpleicons.org/icons/html5.svg)
-
-
-
-![nothing else matters](http://simpleicons.org/icons/html5.svg)
-![nothing else matters](http://simpleicons.org/icons/html5.svg)
-
-
-![nothing else matters](http://simpleicons.org/icons/html5.svg)
 
 
 
