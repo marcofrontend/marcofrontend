@@ -32,15 +32,10 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <!-- <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="80" /> -->
 **CSS**
 - To create an accurate pixel perfect or fluid design. <br>
-- To change the appearance of the elements dynamically.
-
- - Mobile First approach
- - Media queries
- - Flexbox
- - 2D Animations using keyframes
+- To change the appearance of the elements dynamically, using transitions or keyframes animations <br>
+- Mobile First approach, using Media Queries and Flexbox
  
  <!-- <br> -->
-
 
 <!-- <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="80" /> -->
 **SASS**
