@@ -11,9 +11,7 @@ I dropped out of the second year, but I got the HNC Web Development Certificate
 
 ## Interested in finding a job as a Junior Web Developer
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="100" />      <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="100" />      <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="100" />  
-
-<img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="100" />  <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="100" />  <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="100" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="100" />
 
 <br>
 <br>
