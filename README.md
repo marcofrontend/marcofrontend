@@ -1,7 +1,4 @@
-<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="20" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="20" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="20" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="20" />
+
 
 
 # About me!
@@ -11,15 +8,23 @@ I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Med
 I dropped out of the second year, but I got the HNC Web Development Certificate
 
 ## Interested in finding a job as a Junior Web Developer
-<div style="display:flex; align-items: center" backgroud-color: #303030;"><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" />  PSD - Pixel perfect or fluid  </div>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" /> HTML5 
+<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="120" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="120" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="120" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="120" />
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" />  CSS/CSS3 -Media queries, Keyframes
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" />JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
+PSD - Pixel perfect or fluid  
+HTML5 
+CSS/CSS3 -Media queries, Keyframes
+JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" />  Bootstrap 3 (Experience 2016-2018) Bootstrap 4 (Experience 2018-2019) - 1 year ago I don't use it, but I love it and I was very fast with it
+Bootstrap 3 (Experience 2015-2018)  
+It was hot at that time, so I decided to be good at it. I used Bootstrap hand coding navs, carousels, modals.. 
+
+Bootstrap 4 (Experience 2018-2019) - 
+1 year ago I don't use it, but I love it. It uses scss and flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
 
 ## What is next?
 - I just want to code. 
