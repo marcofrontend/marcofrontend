@@ -1,8 +1,8 @@
 # Marco Estors
 I'm a Front End Developer Junior born in Spain.
-While living in Glasgow, I decided to study again. My First course about programming was: M250 - Object-Oriented Java Programming (Open University). It was great, and I learnt a lot. objects, classes, setters, getters, abstract classes, interfaces... I was really into it. <br> I was also studying online courses to became an Oracle Certified Professional Java Developer. <br>
+While living in Glasgow, I decided to study again. My First course about programming was: M250 - Object-Oriented Java Programming (Open University). It was great, and I learnt a lot. objects, classes, setters, getters, abstract classes, interfaces... I was really into it. <br> I was also studying online courses to become an Oracle Certified Professional Java Developer. <br>
 I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Media - Web Development) 
-I dropped out of the second year, but I got the HNC Web Development Certificate.  
+I dropped out of the second year, but I got the HNC Web Development Certificate. 
 
 ## Interested in finding a job as a Junior Web Developer
 
@@ -13,7 +13,14 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 
 
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="40" />  I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="40" />  
+To design basic website layouts with or without using bootstrap grids <br>
+To organize  parts of the design into website sections <br>
+To get data from psd files to covert design to HTML5 and CSS <br>
+To reduce the size of images to save for web <br>
+
+<br>
+<br>
 
 <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
