@@ -39,23 +39,22 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 
 <!-- <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="80" /> -->
 **SASS**
-I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+- I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
 <!-- <br> -->
 
 <!-- <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="80" /> -->
 **JAVASCRIPT**
-I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+- I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
 <!-- <br> -->
 
 <!-- <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="80" /> -->
 **BOOTSTRAP**
-Bootstrap 3 (Experience 2015-2018)  
-It was hot at that time, so I decided to be good at it. I used Bootstrap hand coding navs, carousels, modals.. 
+- Bootstrap 3 (Experience 2015-2018)  
+- It was hot at that time, so I decided to be good at it. I used Bootstrap hand coding navs, carousels, modals.. 
 
-Bootstrap 4 (Experience 2018-2019) - 
-1 year ago I don't use it, but I love it. It uses scss and flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
+- Bootstrap 4 (Experience 2018-2019) - 1 year ago I don't use it, but I love it. It uses scss and flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
 
 <!-- <br> -->
 <br>
@@ -77,7 +76,6 @@ Bootstrap 4 (Experience 2018-2019) -
 
 
 
-### Junior Web Developer
 
 
 
