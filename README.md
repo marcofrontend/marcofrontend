@@ -1,8 +1,3 @@
-
-<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP-ready.png" width="100%" height="100" />  -->
-
-<!-- # About me! -->
-
 # Marco Estors
 I'm a Front End Developer Junior born in Spain.
 My First course about programming was: OO Java programming M250 - OU.
@@ -11,7 +6,7 @@ I dropped out of the second year, but I got the HNC Web Development Certificate
 
 ## Interested in finding a job as a Junior Web Developer
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="100" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="80"/><img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="80"/><img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="80"/><img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="80"/><img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="100"/><img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="100" />
 
 <br>
 <br>
@@ -51,17 +46,6 @@ I'm a Front End Developer Junior born in Spain. My First course about programmin
 PSD - Pixel perfect or fluid  
 
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/HTML-ready.png" width="100" /> 
-HTML5 
-
-
-<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="100" />  
-CSS/CSS3 -Media queries, Keyframes
-
-
-<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="100" />  
-JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
-
 
 <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="100" />  
 Bootstrap 3 (Experience 2015-2018)  
@@ -83,28 +67,12 @@ Bootstrap 4 (Experience 2018-2019) -
 - 3 Responsive Websites (Mobile First I build in 2020)
 
 
-<hr>
-<hr>
-| <img src="C:\Users\SMART\Downloads\CSS---FINAL.png" style="zoom:15%;" /> | <img src="C:\Users\SMART\Downloads\CSS---FINAL.png" style="zoom:15%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| something or nothing will let you know that you are garbage" <br> 'Marco Estors' | something or nothing will let you know that you are garbage" <br/> 'Marco Estors' |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-<hr>
-<hr>
 
 
 
 <!-- ![hello work ](https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbDV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 ) -->
 
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" />
-<br>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" />
-<br>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" />
-<br>
 
 
 # Marco Estors <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" style="display:inline-block; margin-left: 20px;" width="30" alt="Html5 Icon Hd" /> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
@@ -117,24 +85,7 @@ Bootstrap 4 (Experience 2018-2019) -
 
 ## The tools I use to create projects:
 
-<p>
- <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
-<img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" width="30" alt="Html5 Icon Hd" /> 
-
-
-</p>
 
 
 
 
-
-
-
-
-### Credit
-Special thanks to [Entypo](http://www.entypo.com/) for the icons and to [Imgur](http://imgur.com/tXSoThF,1AGmwO3,yCsTjba,0o48UoR,P3YfQoD,YckIOms#0) [for hosting them](http://imgur.com/Vvy3Kru,fep1WsG,9I6NRUm,VlgBKQ9,jDRp47c,wWzX9uB).
-
-### License
-Do whatever you want with this.
