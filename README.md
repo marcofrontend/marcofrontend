@@ -17,23 +17,25 @@ I dropped out of the second year, but I got the HNC Web Development Certificate
 
 <hr>
 <br>
-<div style="width:400px; height: 80px; background-color: black; color: white; > THIS IS MARCO'S GITHUB CONTACT PAGE</div>
 
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP-ready.png" width="100" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="100" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="100" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/SASS-ready.png" width="100" />
-
-<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="100" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="100" />
-
-
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP-ready.png" width="100" />  
 PSD - Pixel perfect or fluid  
+
+
+<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="100" /> 
 HTML5 
+
+
+<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="100" />  
 CSS/CSS3 -Media queries, Keyframes
+
+
+<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="100" />  
 JAVASCRIPT (I just finished my last course from Udemy, about Advanced Object Oriented JS and ES6 Features)
 
+
+<img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="100" />  
 Bootstrap 3 (Experience 2015-2018)  
 It was hot at that time, so I decided to be good at it. I used Bootstrap hand coding navs, carousels, modals.. 
 
