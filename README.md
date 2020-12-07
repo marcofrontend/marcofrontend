@@ -83,7 +83,16 @@ Bootstrap 4 (Experience 2018-2019) -
 - 3 Responsive Websites (Mobile First I build in 2020)
 
 
-
+<hr>
+<hr>
+| <img src="C:\Users\SMART\Downloads\CSS---FINAL.png" style="zoom:15%;" /> | <img src="C:\Users\SMART\Downloads\CSS---FINAL.png" style="zoom:15%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| something or nothing will let you know that you are garbage" <br> 'Marco Estors' | something or nothing will let you know that you are garbage" <br/> 'Marco Estors' |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+<hr>
+<hr>
 
 
 
