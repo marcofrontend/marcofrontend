@@ -1,4 +1,9 @@
-<img src="https://github.com/marcofrontend/icons-/blob/main/css-3-logo.png" width="20" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="20" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="20" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="20" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="20" />
+
+
 # About me!
 I'm a Front End Developer Junior born in Spain.
 My First course about programming was: OO Java programming M250 - OU.
