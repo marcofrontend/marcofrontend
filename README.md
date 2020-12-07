@@ -13,15 +13,15 @@ I dropped out of the second year, but I got the HNC Web Development Certificate
 
 
 
-- <img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="40" />  I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="40" />  I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
-- <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
-- <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
-- <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
-- <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
 
 <hr>
