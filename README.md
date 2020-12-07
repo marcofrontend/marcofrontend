@@ -9,21 +9,22 @@ I dropped out of the second year, but I got the HNC Web Development Certificate
 
 ## Interested in finding a job as a Junior Web Developer
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP-ready.png" width="120" />  <img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="120" />  <img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="120" />  
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP-ready.png" width="100" />  <img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="100" />  <img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="100" />  
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/SASS-ready.png" width="120" />  <img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="120" />  <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="120" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/SASS-ready.png" width="100" />  <img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="100" />  <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="100" />
 
 <hr>
 <br>
+<div style="width:400px; height: 80px; background-color: black; color: white; > THIS IS MARCO'S GITHUB CONTACT PAGE</div>
 
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP-ready.png" width="120" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="120" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="120" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/SASS-ready.png" width="120" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP-ready.png" width="100" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="100" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/CSS-ready.png" width="100" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/SASS-ready.png" width="100" />
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="120" />
-<img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="120" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/JAVASCRIPT-ready.png" width="100" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP-ready.png" width="100" />
 
 
 PSD - Pixel perfect or fluid  
