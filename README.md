@@ -41,7 +41,8 @@ I'm a Front End Developer Junior born in Spain. My First course about programmin
 I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow.  
 
 
-
+<hr style="width:100%; height: 40px; border: 10px solid green;">
+<hr>
 
 <br>
 <br>
@@ -50,7 +51,7 @@ I'm a Front End Developer Junior born in Spain. My First course about programmin
 PSD - Pixel perfect or fluid  
 
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/HTML5-ready.png" width="100" /> 
+<img src="https://github.com/marcofrontend/icons-/blob/main/HTML-ready.png" width="100" /> 
 HTML5 
 
 
