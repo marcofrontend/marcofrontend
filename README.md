@@ -14,17 +14,17 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 
 
 <img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="40" />  
-To design basic website layouts with or without using bootstrap grids <br>
-To organize  parts of the design into website sections <br>
-To get data from psd files to covert design to HTML5 and CSS <br>
-To reduce the size of images to save for web <br>
+- To design basic website layouts with or without using bootstrap grids <br>
+- To organize  parts of the design into website sections <br>
+- To get data from psd files to covert design to HTML5 and CSS <br>
+- To reduce the size of images to save for web <br>
 
 <br>
 <br>
 
 <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="40" /> 
-To create the website structure, acording to  the W3C standards. <br>
-Uploading the html  markup to www.validator.w3.org   to check and correct errors or warnings in the markup <br>
+- To create the website structure, acording to  the W3C standards. <br>
+- Uploading the html  markup to www.validator.w3.org   to check and correct errors or warnings in the markup <br>
 
 <br>
 <br>
