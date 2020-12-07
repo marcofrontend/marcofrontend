@@ -6,26 +6,28 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 
 ## Interested in finding a job as a Junior Web Developer
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="80"/> <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="80"/> <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="80"/> <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="80"/> <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="80"/> <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="80" />
+<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="60" />
 
 <br>
 <br>
 
 ## The tools I use to create projects:
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="80" />  
+<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="80" />  -->
+**Photoshop**
 - To design basic website layouts with or without using bootstrap grids <br>
 - To organize  parts of the design into website sections <br>
 - To get data from psd files to covert design to HTML5 and CSS <br>
 - To reduce the size of images to save for web <br>
 
-<br>
+<!-- <br> -->
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="80" /> 
+<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="80" /> -->
+**HTML5**
 - To create the website structure, acording to  the W3C standards. <br>
 - Uploading the html  markup to www.validator.w3.org   to check and correct errors or warnings in the markup <br>
 
-<br>
+<!-- <br> -->
 
 <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="80" /> 
 - To create an accurate pixel perfect or fluid design. <br>
