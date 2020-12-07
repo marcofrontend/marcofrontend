@@ -29,12 +29,23 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <br>
 <br>
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="40" /> 
+- To create an accurate pixel perfect or fluid design. <br>
+- To change the appearance of the elements dynamically.
+
+ - Mobile First approach
+ - Media queries
+ - Flexbox
+ - 2D Animations using keyframes
+
+
 
 <br>
 <br>
 
-<img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="40" /> I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
+<img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="40" /> 
+
+I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
 
 <br>
 <br>
