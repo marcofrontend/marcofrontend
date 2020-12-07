@@ -1,6 +1,6 @@
 # Marco Estors
 I'm a Front End Developer Junior born in Spain.
-My First course about programming was: OO Java programming M250 - OU.
+My First course about programming was: M250 - Object-Oriented Java Programming (Open University). It was great, and I learnt a lot. classes, setters, getters, abstract classes, interfaces, objects,... I was really into it. Also I was studying using internet to became an Oracle Java Developer.
 I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Media - Web Development) 
 I dropped out of the second year, but I got the HNC Web Development Certificate
 
