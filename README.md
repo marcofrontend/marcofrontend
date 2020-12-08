@@ -13,7 +13,7 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 
 ## Interested in finding a job as a Junior Web Developer
 
-<img src="PHOTOSHOP---FINAL.png" width="60"/> <img src="HTML---FINAL.png" width="60"/> <img src="CSS---FINAL.png" width="60"/> <img src="SASS---FINAL.png" width="60"/> <img src="JS---FINAL.png" width="60"/> <img src="BOOTSTRAP---FINAL.png" width="60" />
+<img src="/main/PHOTOSHOP---FINAL.png" width="60"/> <img src="/main/HTML---FINAL.png" width="60"/> <img src="CSS---FINAL.png" width="60"/> <img src="SASS---FINAL.png" width="60"/> <img src="JS---FINAL.png" width="60"/> <img src="BOOTSTRAP---FINAL.png" width="60" />
 
 
 
