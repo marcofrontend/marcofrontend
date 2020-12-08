@@ -13,8 +13,9 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <br> 
 
 **Photoshop** <br>
-To design basic website layouts with or without using bootstrap grids, to organize parts of the design into website sections
-To convert psd design into HTML5 and CSS, reducing the size of images before exporting them to the project folder
+* To create Website Layouts with or without using bootstrap grids
+* To convert psd design into HTML5 and CSS <br> 
+* To reduce the size of images before exporting them <br>
 
 
 **HTML5** <br>
