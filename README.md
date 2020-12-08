@@ -23,6 +23,21 @@ To create the website structure, according to the W3C standards, and uploading t
 to check and correct errors or warnings 
 
 
+**CSS**
+
+* To create an accurate pixel perfect or fluid design.
+
+* To change the appearance of the elements dynamically using transitions or keyframes animations
+
+* Mobile First 
+* Media Queries 
+* Flexbox
+
+
+
+
+
+
 
 **CSS** <br>
 To create an accurate pixel perfect or fluid design.
