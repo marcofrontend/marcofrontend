@@ -14,7 +14,7 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 ## Interested in finding Nemo and Waldo
 
 <img src="/assets/blob/main/PHOTOSHOP---FINAL.png" width="60" />
-
+<img src="https://github.com/marcofrontend/assets/blob/main/PHOTOSHOP---FINAL.png?raw=true" width="60" />
 
 ----------------------------------------------------------------------------
 
