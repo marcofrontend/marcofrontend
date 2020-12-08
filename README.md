@@ -51,15 +51,7 @@ I just want to code.
 If nothing happened I would learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language <br> 
 Java, C++, C#, anything really
 
-<br>
-<br>
 
-## What you will find:
-- CV made in 2018
-- Responsive Website demo 1
-- Responsive Website demo 2
-- 20 designs I made using Photoshop
-- 3 Responsive Websites (Mobile First I build in 2020)
 
 
 
