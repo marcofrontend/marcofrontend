@@ -41,8 +41,8 @@ Prototypes, Inheritance, Classes, Loops (forEach, for-in, for-of)
   
 ### BOOTSTRAP
 Bootstrap 3 (**Experience 2015-2018**)  <br>
-It was hot at that time, so I decided to be good at it. I used to hand coding Bootstrap navs, carousels, modals, <br>
-(I ended creating my own custom snippets in a json file). <br>
+It was hot at that time, so I decided to be good at it. I used to hand coding Bootstrap navs, carousels, modals. <br>
+I ended up creating my own snippets in json files. <br>
 
 Bootstrap 4 (**Experience 2018-2019**) <br> 
 It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
@@ -50,8 +50,8 @@ It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox 
 <br>
 
 ## What is next?
-- I just want to code. 
-- If nothing happened I would learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language <br> 
+I just want to code.
+If nothing happened I would learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language <br> 
 Java, C++, C#, anything really
 
 <br>
