@@ -50,6 +50,9 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
   * Maps
   * Sets
   * Promises
+  * Prototypes
+  * Inheritance
+  * Classes
   * Loops (forEach, for-in, for-of)
   
 <br> 
