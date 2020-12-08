@@ -23,20 +23,6 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 [click here now 2](http://www.nike.com)  <br>
 
 <br>
-<br>
-<br>
-
-![alt text](/main/bootstrap-marco-icon.png)
-
-![alt text](/bootstrap-marco-icon.png)
-
-
-<br>
-<br>
-<br>
-
-
-
 
 ## MY WORKFLOW
 
