@@ -24,11 +24,8 @@ to check and correct errors or warnings
 
 
 **CSS**
-
 * To create an accurate pixel perfect or fluid design.
-
 * To change the appearance of the elements dynamically using transitions or keyframes animations
-
 * Mobile First 
 * Media Queries 
 * Flexbox
@@ -37,7 +34,7 @@ to check and correct errors or warnings
 
 
 
-
+<br><br><br><br><br><br>
 
 **CSS** <br>
 To create an accurate pixel perfect or fluid design.
