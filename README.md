@@ -48,10 +48,20 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 * To organize website content like variables, typography, layout and components.
 
 ### JAVASCRIPT 
+* **Basic**: Variables, Data Types, Conditionals, Functions, Objects.
+* **Advanced Object Oriented JavaScript**: DOM, Function Overloading, forEach(), call(), apply(), bind(), 
+* **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises,
+  Prototypes, Inheritance, Classes, Loops (for-in, for-of)
+
+
+
+<!--
+### JAVASCRIPT 
 * **DOM Manipulation**: I don't use JQuery anymore, it can be done with Vanilla JS
 * **Advanced Object Oriented JavaScript**: Literal Objects, Functions, Arrays
 * **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises, <br> 
 Prototypes, Inheritance, Classes, Loops (forEach, for-in, for-of)
+-->
   
 ### BOOTSTRAP
 **Bootstrap 3 (Experience 2015-2018)**  <br>
