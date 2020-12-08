@@ -55,9 +55,8 @@ I have not used Bootstrap since December 2018, but still keep my own Bootstrap 3
  <br>
  
 ## What is next?
-I just want to code.
-As a natural stept forward in 2021 I'm going to learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language, like  
-Java, C++, C#, anything really
+I just want to learn React/Vue JS. 
+If the right offer came up, I would specialize in any other programming language, like Java, C++, C# or PHP.
 
 
 
