@@ -12,20 +12,20 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <br>
 <br> 
 
-**Photoshop**
--To design basic website layouts with or without using bootstrap grids, to organize parts of the design into website sections
+**Photoshop** <br>
+To design basic website layouts with or without using bootstrap grids, to organize parts of the design into website sections
 To convert psd design into HTML5 and CSS, reducing the size of images before exporting them to the project folder
 
 
 
-**HTML5**
--To create the website structure, according to the W3C standards, and uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ 
+**HTML5** <br>
+To create the website structure, according to the W3C standards, and uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ 
 to check and correct errors or warnings 
 
 
 
-**CSS**
--To create an accurate pixel perfect or fluid design.
+**CSS** <br>
+To create an accurate pixel perfect or fluid design.
 To change the appearance of the elements dynamically using transitions or keyframes animations
 
 Mobile First approach, using Media Queries and Flexbox
