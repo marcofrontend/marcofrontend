@@ -45,17 +45,6 @@ Now I want to live abroad again but this time permanently in the UK, the Europea
 * **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises,
   Classes, Loops (for-of)
  <br>
-<hr>
-<br>
-### BOOTSTRAP
-* **Bootstrap 3 (Experience 2015-2018)**  <br>
-I used to hand-code Bootstrap navs, carousels, modals. <br>
-I ended up creating my own snippets in json files. <br>
-
-* **Bootstrap 4 (Experience 2018-2019)** <br> 
-I studied 3 or 4 different Bootstrap 4 Courses for Beginners. At the beginning was like starting from the scratch, but I realized that flexbox names are all over the place, and that makes Bootstrap 4 intuitive, because and I was using SCSS and Flexbox with Bootstrap 3 already. 
-
-<br>
 
 ## What is next?
 I just want to code.
