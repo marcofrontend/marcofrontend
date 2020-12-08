@@ -26,23 +26,32 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <br> 
 
 **CSS**
-* To create an accurate pixel perfect or fluid design. <br>
-* To change the appearance of the elements dynamically using transitions or keyframes animations. <br>
-- Mobile First <br>
-- Media Queries <br>
-- Flexbox
+* To create an accurate pixel perfect or fluid design.
+* To change the appearance of the elements dynamically using transitions or keyframes animations. 
+* Mobile First 
+* Media Queries 
+* Flexbox
 
 <br> 
 
 **SASS** <br>
-To load a website faster by importing all files into the main file  so it makes only 1 http request 
-To organize website content like variables, typography, layout and components
+* To load a website faster by importing all files into the main file  so it makes only 1 http request 
+* To organize website content like variables, typography, layout and components
 
 <br> 
 
 **JAVASCRIPT** <br>
-popo pom po po pom
-
+* DOM Manipulation
+* Advanced Object Oriented JavaScript
+* ES6 Features 
+  * Arrow Functions
+  * Template Literals, String Literals
+  * Destructuring
+  * Maps
+  * Sets
+  * Promises
+  * Loops (forEach, for-in, for-of)
+  
 <br> 
 
 **BOOTSTRAP**
