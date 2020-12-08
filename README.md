@@ -7,21 +7,12 @@ I dropped out of College at the beginning of the second year (Back End Developme
 
 Now I want to live abroad again but this time permanently in the UK, the European Union or the United States
 
-
-<!--
-# Marco Estors
-I'm a Front End Developer Junior born in Spain.
-While living in Glasgow, I decided to study again. My First course about programming was: M250 - Object-Oriented Java Programming (Open University). It was great, and I learnt a lot. objects, classes, setters, getters, abstract classes, interfaces... I was really into it. <br> I was also studying online courses to become an Oracle Certified Professional Java Developer. <br>
-I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Media - Web Development) 
-I dropped out of the second year, but I got the HNC Web Development Certificate. 
-<!-- ========================================================================================================== -->
-
 ## Interested in finding a job as a Junior Web Developer 
 <img src="https://github.com/marcofrontend/assets/blob/main/photoshop-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/html-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/css-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/sass-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/js-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/bootstrap-marco-icon.png" width="80" />
 
 ## MY PORTFOLIO  
-[My previous work: 3 websites and 20 designs- 2017/18](http://www.nike.com)  <br>  
-[My last work: 3 mobile first websites - 2020](http://www.nike.com)  <br>
+[2017/2018: 3 websites and 20 designs](http://www.nike.com)  <br>  
+[2020: 3 mobile first websites](http://www.nike.com)  <br>
 
 <br>
 
@@ -38,32 +29,23 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 * uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ to check and correct errors or warnings. 
 
 ### CSS
-* To create an accurate pixel perfect or fluid prototype or website.
+* To create accurate pixel perfect or fluid prototypes or websites.
 * To change the appearance of the elements dynamically using transitions or keyframes animations. 
 * Mobile First.
 * Media Queries. 
 * Flexbox.
 
 ### SASS  
-* To load a website faster by importing all files into the main file  so it makes only 1 http request. 
-* To organize website content like variables, typography, layout and components.
+* To load websites faster by importing all files into a main file, so it makes only 1 http request. 
+* To organize websites content like variables, typography, layout and components.
 
 ### JAVASCRIPT 
 * **Basic**: Variables, Data Types, Conditionals, Functions, Objects, DOM.
 * **Advanced Object Oriented JavaScript**: Inheritance, Prototypes, Hoisting, Function Overloading
 * **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises,
   Classes, Loops (for-of)
-
-
-
-<!--
-### JAVASCRIPT 
-* **DOM Manipulation**: I don't use JQuery anymore, it can be done with Vanilla JS
-* **Advanced Object Oriented JavaScript**: Literal Objects, Functions, Arrays
-* **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises, <br> 
-Prototypes, Inheritance, Classes, Loops (forEach, for-in, for-of)
--->
-  
+ <br>
+<hr>
 ### BOOTSTRAP
 **Bootstrap 3 (Experience 2015-2018)**  <br>
 It was hot at that time, so I decided to be good at it. I used to hand coding Bootstrap navs, carousels, modals. <br>
