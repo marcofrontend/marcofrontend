@@ -17,9 +17,13 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 * To convert psd design into HTML5 and CSS <br> 
 * To reduce the size of images before exporting them <br>
 
+<br> 
+
 **HTML5** <br>
 * To create the website structure, according to the W3C standards
 * uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ to check and correct errors or warnings 
+
+<br> 
 
 **CSS**
 * To create an accurate pixel perfect or fluid design. <br>
@@ -28,12 +32,18 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 - Media Queries <br>
 - Flexbox
 
+<br> 
+
 **SASS** <br>
 To load a website faster by importing all files into the main file  so it makes only 1 http request 
 To organize website content like variables, typography, layout and components
 
+<br> 
+
 **JAVASCRIPT** <br>
 popo pom po po pom
+
+<br> 
 
 **BOOTSTRAP**
 Bootstrap 3 (Experience 2015-2018)  <br>
@@ -58,8 +68,6 @@ Bootstrap 4 (Experience 2018-2019) - It comes with SCSS and Flexbox out of the b
 - Responsive Website demo 2
 - 20 designs I made using Photoshop
 - 3 Responsive Websites (Mobile First I build in 2020)
-
-
 
 
 
