@@ -1,5 +1,5 @@
 # Marco Estors 
-I'm a Front End Developer Junior born in Spain, who lived in the UK from 2008 to 2016. <br> (London, Weymouth, Ballater and Glasgow where I spent 5 years).<br>
+I'm a Front End Developer Junior born in Spain, who lived in the UK from 2008 to 2016. (London, Weymouth, Ballater and Glasgow).<br>
 Living in Glasgow I decided to study again, started preparing myself to access to University. <br>
 I started studying Mathematics, English Grammar and Object Oriented Java Programming online, until the year 2015 in which I was accepted to study at City of Glasgow College (HND). <br>
 After finishing my first year in College studying Front End Development and Design, I received an HNC (Higher National Certificate), equivalent to a Bachelor's Degree first year). <br> 
