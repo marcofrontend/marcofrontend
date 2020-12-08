@@ -50,13 +50,13 @@ Now I want to live abroad again but this time permanently in the UK, the Europea
 * **2017/2018**: Hand-coded Bootstrap 3 Navs, Carousels, Modals, basically everything. I wanted to make a statement as Developer
 * **2018**: Bootstrap 4. Several Intensive Courses starting from scratch. 
 
-I have not used Bootstrap since December 2018, but still keep Bootstrap 3 custom snippets backups in json files.
+I have not used Bootstrap since December 2018, but still keep my own Bootstrap 3 custom snippets, with options, better than the VS Code Extensions as backups in json files.
 
  <br>
  
 ## What is next?
 I just want to code.
-If nothing happened I would learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language <br> 
+As a natural stept forward in 2021 I'm going to learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language, like  
 Java, C++, C#, anything really
 
 
