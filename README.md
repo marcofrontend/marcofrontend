@@ -46,13 +46,14 @@ Now I want to live abroad again but this time permanently in the UK, the Europea
   Classes, Loops (for-of)
  <br>
 <hr>
+<br>
 ### BOOTSTRAP
 * **Bootstrap 3 (Experience 2015-2018)**  <br>
-It was hot at that time, so I decided to be good at it. I used to hand coding Bootstrap navs, carousels, modals. <br>
+I used to hand-code Bootstrap navs, carousels, modals. <br>
 I ended up creating my own snippets in json files. <br>
 
 * **Bootstrap 4 (Experience 2018-2019)** <br> 
-It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
+I studied 3 or 4 different Bootstrap 4 Courses for Beginners. At the beginning was like starting from the scratch, but I realized that flexbox names are all over the place, and that makes Bootstrap 4 intuitive, because and I was using SCSS and Flexbox with Bootstrap 3 already. 
 
 <br>
 
