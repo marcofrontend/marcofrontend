@@ -13,36 +13,55 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <br> 
 
 **Photoshop** <br>
-* To create Website Layouts with or without using bootstrap grids
-* To convert psd design into HTML5 and CSS <br> 
-* To reduce the size of images before exporting them <br>
+* To create Website Layouts with or without using bootstrap grids.
+* To convert psd design into HTML5 and CSS. <br> 
+* To reduce the size of images before exporting them. <br>
 
 <br> 
 
 **HTML5** <br>
-* To create the website structure, according to the W3C standards
-* uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ to check and correct errors or warnings 
+* To create the website structure, according to the W3C standards.
+* uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ to check and correct errors or warnings. 
 
 <br> 
 
 **CSS**
-* To create an accurate pixel perfect or fluid design.
+* To create an accurate pixel perfect or fluid prototype or website.
 * To change the appearance of the elements dynamically using transitions or keyframes animations. 
-* Mobile First 
-* Media Queries 
-* Flexbox
+* Mobile First.
+* Media Queries. 
+* Flexbox.
 
 <br> 
 
 **SASS** <br>
-* To load a website faster by importing all files into the main file  so it makes only 1 http request 
-* To organize website content like variables, typography, layout and components
+* To load a website faster by importing all files into the main file  so it makes only 1 http request. 
+* To organize website content like variables, typography, layout and components.
+
+------------------------------------------------------------------------------------------------------------------
+<br> 
 
 <br> 
 
 **JAVASCRIPT** <br>
-* DOM Manipulation
-* Advanced Object Oriented JavaScript
+* DOM Manipulation: I don't use JQuery anymore, it can be done easy with Vanilla JS
+* Advanced Object Oriented JavaScript: Literal Objects, Functions, Arrays
+* ES6 Features: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises
+  * Prototypes, Inheritance, Classes, Loops (forEach, for-in, for-of)
+  
+<br> 
+
+------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+**JAVASCRIPT** <br>
+* DOM Manipulation.
+* Advanced Object Oriented JavaScript.
 * ES6 Features 
   * Arrow Functions
   * Template Literals, String Literals
@@ -56,6 +75,11 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
   * Loops (forEach, for-in, for-of)
   
 <br> 
+
+
+
+
+
 
 **BOOTSTRAP**
 Bootstrap 3 (Experience 2015-2018)  <br>
