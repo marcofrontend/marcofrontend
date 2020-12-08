@@ -49,9 +49,9 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 
 ### JAVASCRIPT 
 * **Basic**: Variables, Data Types, Conditionals, Functions, Objects.
-* **Advanced Object Oriented JavaScript**: DOM, Function Overloading, forEach(), call(), apply(), bind(), 
+* **Advanced Object Oriented JavaScript**: DOM, Function Overloading, Inheritance, Prototypes
 * **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises,
-  Prototypes, Inheritance, Classes, Loops (for-in, for-of)
+  Classes, Loops (for-of)
 
 
 
