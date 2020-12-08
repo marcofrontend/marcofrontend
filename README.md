@@ -3,7 +3,7 @@ I'm a Front End Developer Junior born in Spain, who **lived 8 years in the UK** 
 Living in Glasgow I decided to study again, started preparing myself to access to University. <br>
 I started studying Mathematics, English Grammar and **Object Oriented Java Programming** online, until the year 2015 in which I was accepted to study a Higher National Diploma (HND), at City of Glasgow College. <br>
 After finishing my first year in College studying Front End Development and Design, **I received an HNC (Higher National Certificate)**, equivalent to a Bachelor's Degree first year). <br> 
-I dropped out of College at the beginning of the second year (Back End Development), because It was my eighth year in a row living abroad, and I needed to go back to Spain. <br>
+I dropped out of College at the beginning of the second year (Back End Development), because It was my eighth year in a row living abroad, and I needed to take a break and went back to Spain. <br>
 
 Now I want to live abroad again but this time permanently in the UK, the European Union or the United States
 
