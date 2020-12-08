@@ -17,7 +17,6 @@ To design basic website layouts with or without using bootstrap grids, to organi
 To convert psd design into HTML5 and CSS, reducing the size of images before exporting them to the project folder
 
 
-
 **HTML5** <br>
 To create the website structure, according to the W3C standards, and uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ 
 to check and correct errors or warnings 
@@ -31,70 +30,23 @@ to check and correct errors or warnings
 - Flexbox
 
 
+**SASS** <br>
+To load a website faster by importing all files into the main file  so it makes only 1 http request 
+To organize website content like variables, typography, layout and components
 
 
-
-<br>
-<br><br><br><br><br>
-
-**CSS** <br>
-To create an accurate pixel perfect or fluid design.
-To change the appearance of the elements dynamically using transitions or keyframes animations
-
-Mobile First approach, using Media Queries and Flexbox
+**JAVASCRIPT** <br>
+popo pom po po pom
 
 <br>
 
-
-
-
-<br><br><br><br><br><br><br>
-## The tools I use to create projects:
-
-<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="80" />  -->
-**Photoshop**
-- To design basic website layouts with or without using bootstrap grids <br>
-- To organize  parts of the design into website sections <br>
-- To get data from psd files to covert design to HTML5 and CSS <br>
-- To reduce the size of images to save for web <br>
-
-<!-- <br> -->
-
-<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="80" /> -->
-**HTML5**
-- To create the website structure, acording to  the W3C standards. <br>
-- Uploading the html  markup to www.validator.w3.org   to check and correct errors or warnings in the markup <br>
-
-<!-- <br> -->
-
-<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="80" /> -->
-**CSS**
-- To create an accurate pixel perfect or fluid design. <br>
-- To change the appearance of the elements dynamically, using transitions or keyframes animations <br>
-- Mobile First approach, using Media Queries and Flexbox
- 
- <!-- <br> -->
-
-<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="80" /> -->
-**SASS**
-- I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
-
-<!-- <br> -->
-
-<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="80" /> -->
-**JAVASCRIPT**
-- I'm a Front End Developer Junior born in Spain. My First course about programming was: OO Java programming M250 - OU. I switched to JavaScript, and I went to College in Glasgow. 
-
-<!-- <br> -->
-
-<!-- <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="80" /> -->
 **BOOTSTRAP**
-- Bootstrap 3 (Experience 2015-2018)  
-- It was hot at that time, so I decided to be good at it. I used Bootstrap hand coding navs, carousels, modals.. 
+Bootstrap 3 (Experience 2015-2018)  <br>
+It was hot at that time, so I decided to be good at it. I used to hand coding Bootstrap navs, carousels, modals, <br>
+(I ended creating my own custom snippets in a json file). <br>
 
-- Bootstrap 4 (Experience 2018-2019) - 1 year ago I don't use it, but I love it. It uses scss and flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
+Bootstrap 4 (Experience 2018-2019) - It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
 
-<!-- <br> -->
 <br>
 
 ## What is next?
