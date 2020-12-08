@@ -5,19 +5,8 @@ I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Med
 I dropped out of the second year, but I got the HNC Web Development Certificate. 
 
 
-<!-- ## Interested in finding a job as a Junior Web Developer -->
-
-
-<br>
-
-
-## Interested in finding Nemo and Waldo
-
-
-<img src="https://github.com/marcofrontend/assets/blob/main/photoshop-marco-icon.png" width="200" /> <img src="https://github.com/marcofrontend/assets/blob/main/html-marco-icon.png" width="200" /> <img src="https://github.com/marcofrontend/assets/blob/main/css-marco-icon.png" width="200" /> <img src="https://github.com/marcofrontend/assets/blob/main/sass-marco-icon.png" width="200" /> <img src="https://github.com/marcofrontend/assets/blob/main/bootstrap-marco-icon.png" width="200" />
-
-----------------------------------------------------------------------------
-
+## Interested in finding a job as a Junior Web Developer 
+<img src="https://github.com/marcofrontend/assets/blob/main/photoshop-marco-icon.png" width="120" /> <img src="https://github.com/marcofrontend/assets/blob/main/html-marco-icon.png" width="120" /> <img src="https://github.com/marcofrontend/assets/blob/main/css-marco-icon.png" width="120" /> <img src="https://github.com/marcofrontend/assets/blob/main/sass-marco-icon.png" width="120" /> <img src="https://github.com/marcofrontend/assets/blob/main/js-marco-icon.png" width="120" /> <img src="https://github.com/marcofrontend/assets/blob/main/bootstrap-marco-icon.png" width="120" />
 
 
 ## My Workflow
