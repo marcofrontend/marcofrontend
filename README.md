@@ -11,10 +11,9 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <br>
 ----------------------------------------------------------------------------
 
-## Interested in finding a job as a Junior Web Developer
+## Interested in finding Nemo and Waldo
 
-
-<img src="/icons-/blob/main/PHOTOSHOP---FINAL.png" width="60"/> <img src="/icons-/blob/main/HTML---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="60" />
+<img src="/assets/blob/main/PHOTOSHOP---FINAL.png" width="60" />
 
 
 ----------------------------------------------------------------------------
