@@ -1,9 +1,19 @@
+# Marco Estors 
+I'm a Front End Developer Junior born in Spain, who lived in the UK from 2008 to 2016, London, Weymouth, Ballater and Glasgow where I spent 5 years.
+Living in Glasgow I decided to study again, I started preparing myself to access to University, 
+I started studying Mathematics and Object Oriented Java Programming online, until the year 2015 in which I was accepted to study at City of Glasgow College (HND)
+After finishing my first year in College studying Front End Development and Design  I received an HNC (Higher National Certificate) , equivalent to a Bachelor's Degree first year). I dropped out of College at the beginning of the second year (Back End Development), because I wanted to go back to Spain, after 8 years in a row in the UK. 
+
+Now I want to live abroad again but this time permanently in the UK, the European Union or the United States
+
+
+<!--
 # Marco Estors
 I'm a Front End Developer Junior born in Spain.
 While living in Glasgow, I decided to study again. My First course about programming was: M250 - Object-Oriented Java Programming (Open University). It was great, and I learnt a lot. objects, classes, setters, getters, abstract classes, interfaces... I was really into it. <br> I was also studying online courses to become an Oracle Certified Professional Java Developer. <br>
 I switched to JavaScript, and I went to College in Glasgow. (HND Interactive Media - Web Development) 
 I dropped out of the second year, but I got the HNC Web Development Certificate. 
-
+<!-- ========================================================================================================== -->
 
 ## Interested in finding a job as a Junior Web Developer 
 <img src="https://github.com/marcofrontend/assets/blob/main/photoshop-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/html-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/css-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/sass-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/js-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/bootstrap-marco-icon.png" width="80" />
