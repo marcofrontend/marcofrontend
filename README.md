@@ -48,8 +48,8 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 * To organize website content like variables, typography, layout and components.
 
 ### JAVASCRIPT 
-* **Basic**: Variables, Data Types, Conditionals, Functions, Objects.
-* **Advanced Object Oriented JavaScript**: DOM, Function Overloading, Inheritance, Prototypes
+* **Basic**: Variables, Data Types, Conditionals, Functions, Objects, DOM.
+* **Advanced Object Oriented JavaScript**: Inheritance, Prototypes, Hoisting, Function Overloading
 * **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises,
   Classes, Loops (for-of)
 
