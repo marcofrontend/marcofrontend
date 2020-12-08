@@ -23,7 +23,7 @@ To create the website structure, according to the W3C standards, and uploading t
 to check and correct errors or warnings 
 
 
-**CSS** <br>
+**CSS**
 - To create an accurate pixel perfect or fluid design. <br>
 - To change the appearance of the elements dynamically using transitions or keyframes animations. <br>
 - Mobile First <br>
