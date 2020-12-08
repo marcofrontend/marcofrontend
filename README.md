@@ -32,7 +32,7 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 * To organize website content like variables, typography, layout and components.
 
 ### JAVASCRIPT 
-* **DOM Manipulation**: I don't use JQuery anymore, it can be done easy with Vanilla JS
+* **DOM Manipulation**: I don't use JQuery anymore, it can be done with Vanilla JS
 * **Advanced Object Oriented JavaScript**: Literal Objects, Functions, Arrays
 * **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises, <br> 
 Prototypes, Inheritance, Classes, Loops (forEach, for-in, for-of)
@@ -49,8 +49,8 @@ It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox 
 
 ## What is next?
 - I just want to code. 
-- If nothing happened I would learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language
-- Java, C++, C#, anything really
+- If nothing happened I would learn React/Vue JS, but I the right offer came up, I would specialize in any other programming language <br> 
+Java, C++, C#, anything really
 
 <br>
 <br>
