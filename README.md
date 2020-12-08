@@ -17,29 +17,23 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 * To convert psd design into HTML5 and CSS <br> 
 * To reduce the size of images before exporting them <br>
 
-
 **HTML5** <br>
-To create the website structure, according to the W3C standards, and uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ 
-to check and correct errors or warnings 
-
+* To create the website structure, according to the W3C standards
+* uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ to check and correct errors or warnings 
 
 **CSS**
-- To create an accurate pixel perfect or fluid design. <br>
-- To change the appearance of the elements dynamically using transitions or keyframes animations. <br>
+* To create an accurate pixel perfect or fluid design. <br>
+* To change the appearance of the elements dynamically using transitions or keyframes animations. <br>
 - Mobile First <br>
 - Media Queries <br>
 - Flexbox
-
 
 **SASS** <br>
 To load a website faster by importing all files into the main file  so it makes only 1 http request 
 To organize website content like variables, typography, layout and components
 
-
 **JAVASCRIPT** <br>
 popo pom po po pom
-
-<br>
 
 **BOOTSTRAP**
 Bootstrap 3 (Experience 2015-2018)  <br>
