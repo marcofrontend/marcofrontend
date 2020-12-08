@@ -39,11 +39,11 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 Prototypes, Inheritance, Classes, Loops (forEach, for-in, for-of)
   
 ### BOOTSTRAP
-Bootstrap 3 (**Experience 2015-2018**)  <br>
+**Bootstrap 3 (Experience 2015-2018)**  <br>
 It was hot at that time, so I decided to be good at it. I used to hand coding Bootstrap navs, carousels, modals. <br>
 I ended up creating my own snippets in json files. <br>
 
-Bootstrap 4 (**Experience 2018-2019**) <br> 
+**Bootstrap 4 (Experience 2018-2019)** <br> 
 It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
 
 <br>
