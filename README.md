@@ -14,19 +14,13 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 
 ### Photoshop
 
--------------------------------------------------------------
-**Photoshop** <br>
 * To create Website Layouts with or without using bootstrap grids.
 * To convert psd design into HTML5 and CSS. <br> 
 * To reduce the size of images before exporting them. <br>
 
-<br> 
-
 ### HTML5 
 * To create the website structure, according to the W3C standards.
 * uploading the markup to  www.validator.w3.org http://www.validator.w3.org/ to check and correct errors or warnings. 
-
-<br> 
 
 ### CSS
 * To create an accurate pixel perfect or fluid prototype or website.
@@ -35,61 +29,23 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 * Media Queries. 
 * Flexbox.
 
-<br> 
-
-**SASS** <br>
+### SASS  
 * To load a website faster by importing all files into the main file  so it makes only 1 http request. 
 * To organize website content like variables, typography, layout and components.
 
-------------------------------------------------------------------------------------------------------------------
-<br> 
-
-<br> 
-
 ### JAVASCRIPT 
-* **DOM Manipulation***: I don't use JQuery anymore, it can be done easy with Vanilla JS
+* **DOM Manipulation**: I don't use JQuery anymore, it can be done easy with Vanilla JS
 * **Advanced Object Oriented JavaScript**: Literal Objects, Functions, Arrays
 * **ES6 Features**: Arrow Functions, Template Literals, String Literals, Destructuring, Maps, Sets, Promises, <br> 
 Prototypes, Inheritance, Classes, Loops (forEach, for-in, for-of)
   
-<br> 
-
-------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-**JAVASCRIPT** <br>
-* DOM Manipulation.
-* Advanced Object Oriented JavaScript.
-* ES6 Features 
-  * Arrow Functions
-  * Template Literals, String Literals
-  * Destructuring
-  * Maps
-  * Sets
-  * Promises
-  * Prototypes
-  * Inheritance
-  * Classes
-  * Loops (forEach, for-in, for-of)
-  
-<br> 
-
-
-
-
-
-
-**BOOTSTRAP**
-Bootstrap 3 (Experience 2015-2018)  <br>
+### BOOTSTRAP
+Bootstrap 3 (**Experience 2015-2018**)  <br>
 It was hot at that time, so I decided to be good at it. I used to hand coding Bootstrap navs, carousels, modals, <br>
 (I ended creating my own custom snippets in a json file). <br>
 
-Bootstrap 4 (Experience 2018-2019) - It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
+Bootstrap 4 (**Experience 2018-2019**) <br> 
+It comes with SCSS and Flexbox out of the box, and I was using SCSS and Flexbox with Bootstrap 3 already. 
 
 <br>
 
