@@ -9,6 +9,17 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <img src="https://github.com/marcofrontend/icons-/blob/main/PHOTOSHOP---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/HTML---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/CSS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/SASS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/JS---FINAL.png" width="60"/> <img src="https://github.com/marcofrontend/icons-/blob/main/BOOTSTRAP---FINAL.png" width="60" />
 
 <br>
+----------------------------------------------------------------------------
+
+## Interested in finding a job as a Junior Web Developer
+
+<img src="PHOTOSHOP---FINAL.png" width="60"/> <img src="HTML---FINAL.png" width="60"/> <img src="CSS---FINAL.png" width="60"/> <img src="SASS---FINAL.png" width="60"/> <img src="JS---FINAL.png" width="60"/> <img src="BOOTSTRAP---FINAL.png" width="60" />
+
+
+
+----------------------------------------------------------------------------
+
+
 
 ## My Workflow
 
