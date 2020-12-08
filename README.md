@@ -11,7 +11,8 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <br>
 <br>
 <br> 
-
+### Photoshop <br>
+-------------------------------------------------------------
 **Photoshop** <br>
 * To create Website Layouts with or without using bootstrap grids.
 * To convert psd design into HTML5 and CSS. <br> 
