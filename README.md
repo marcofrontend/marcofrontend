@@ -19,8 +19,8 @@ I dropped out of the second year, but I got the HNC Web Development Certificate.
 <img src="https://github.com/marcofrontend/assets/blob/main/photoshop-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/html-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/css-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/sass-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/js-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/bootstrap-marco-icon.png" width="80" />
 
 ## MY PORTFOLIO  
-[click here now 1](http://www.nike.com)  <br>  
-[click here now 2](http://www.nike.com)  <br>
+[My previous work: 3 websites and 20 designs- 2017/18](http://www.nike.com)  <br>  
+[My last work: 3 mobile first websites - 2020](http://www.nike.com)  <br>
 
 <br>
 
