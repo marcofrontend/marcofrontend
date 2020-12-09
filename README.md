@@ -7,7 +7,7 @@ I dropped out of College at the beginning of the second year (Back End Developme
 
 Now I want to live abroad again but this time permanently in the UK, the European Union or the United States
 
-## Interested in finding a job as a Junior Web Developer 
+<!-- ## Interested in finding a job as a Junior Web Developer -->
 <img src="https://github.com/marcofrontend/assets/blob/main/photoshop-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/html-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/css-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/sass-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/js-marco-icon.png" width="80" /> <img src="https://github.com/marcofrontend/assets/blob/main/bootstrap-marco-icon.png" width="80" />
 
 ## MY PORTFOLIO  
